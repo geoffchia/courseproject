@@ -10,3 +10,6 @@ Course project for Getting and Cleaning Data
 ### 4. Appropriately labels the data set with descriptive variable names. 
 ### 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
+## In your current directory, you should have 2 sub-directories: test and train
+### test contains test data; train contains training data
+### each directory in turns contains 3 text files: subject_xxx.txt, y_xxx.txt, X_xxx.txt where xxx is either test or train.
